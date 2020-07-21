@@ -16,4 +16,3 @@ Randomly generated questions to ensure you don't stay bored for long.
 <img src="ReadMeImages/TimedQuiz.PNG">
 <img src="ReadMeImages/HighScores.PNG">
 
-# PortfolioShowcase-2
